@@ -1,0 +1,15 @@
+D:\fpt\Ky8\capstone\Finance.WebAPI\Finance.Business\bin\Debug\net5.0\Finance.Business.deps.json
+D:\fpt\Ky8\capstone\Finance.WebAPI\Finance.Business\bin\Debug\net5.0\Finance.Business.runtimeconfig.json
+D:\fpt\Ky8\capstone\Finance.WebAPI\Finance.Business\bin\Debug\net5.0\Finance.Business.runtimeconfig.dev.json
+D:\fpt\Ky8\capstone\Finance.WebAPI\Finance.Business\bin\Debug\net5.0\Finance.Business.dll
+D:\fpt\Ky8\capstone\Finance.WebAPI\Finance.Business\bin\Debug\net5.0\ref\Finance.Business.dll
+D:\fpt\Ky8\capstone\Finance.WebAPI\Finance.Business\bin\Debug\net5.0\Finance.Business.pdb
+D:\fpt\Ky8\capstone\Finance.WebAPI\Finance.Business\obj\Debug\net5.0\Finance.Business.csproj.AssemblyReference.cache
+D:\fpt\Ky8\capstone\Finance.WebAPI\Finance.Business\obj\Debug\net5.0\Finance.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\fpt\Ky8\capstone\Finance.WebAPI\Finance.Business\obj\Debug\net5.0\Finance.Business.AssemblyInfoInputs.cache
+D:\fpt\Ky8\capstone\Finance.WebAPI\Finance.Business\obj\Debug\net5.0\Finance.Business.AssemblyInfo.cs
+D:\fpt\Ky8\capstone\Finance.WebAPI\Finance.Business\obj\Debug\net5.0\Finance.Business.csproj.CoreCompileInputs.cache
+D:\fpt\Ky8\capstone\Finance.WebAPI\Finance.Business\obj\Debug\net5.0\Finance.Business.dll
+D:\fpt\Ky8\capstone\Finance.WebAPI\Finance.Business\obj\Debug\net5.0\ref\Finance.Business.dll
+D:\fpt\Ky8\capstone\Finance.WebAPI\Finance.Business\obj\Debug\net5.0\Finance.Business.pdb
+D:\fpt\Ky8\capstone\Finance.WebAPI\Finance.Business\obj\Debug\net5.0\Finance.Business.genruntimeconfig.cache
