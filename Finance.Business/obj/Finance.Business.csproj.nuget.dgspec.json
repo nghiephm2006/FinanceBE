@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\fpt\\Ky8\\capstone\\FinanceBE\\Finance.Business\\Finance.Business.csproj": {}
+    "D:\\fpt\\Ky8\\capstone\\Finance.WebAPI\\Finance.Business\\Finance.Business.csproj": {}
   },
   "projects": {
-    "D:\\fpt\\Ky8\\capstone\\FinanceBE\\Finance.Business\\Finance.Business.csproj": {
+    "D:\\fpt\\Ky8\\capstone\\Finance.WebAPI\\Finance.Business\\Finance.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\fpt\\Ky8\\capstone\\FinanceBE\\Finance.Business\\Finance.Business.csproj",
+        "projectUniqueName": "D:\\fpt\\Ky8\\capstone\\Finance.WebAPI\\Finance.Business\\Finance.Business.csproj",
         "projectName": "Finance.Business",
-        "projectPath": "D:\\fpt\\Ky8\\capstone\\FinanceBE\\Finance.Business\\Finance.Business.csproj",
+        "projectPath": "D:\\fpt\\Ky8\\capstone\\Finance.WebAPI\\Finance.Business\\Finance.Business.csproj",
         "packagesPath": "C:\\Users\\09323\\.nuget\\packages\\",
-        "outputPath": "D:\\fpt\\Ky8\\capstone\\FinanceBE\\Finance.Business\\obj\\",
+        "outputPath": "D:\\fpt\\Ky8\\capstone\\Finance.WebAPI\\Finance.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\09323\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\fpt\\Ky8\\capstone\\FinanceBE\\Finance.Data\\Finance.Data.csproj": {
-                "projectPath": "D:\\fpt\\Ky8\\capstone\\FinanceBE\\Finance.Data\\Finance.Data.csproj"
+              "D:\\fpt\\Ky8\\capstone\\Finance.WebAPI\\Finance.Data\\Finance.Data.csproj": {
+                "projectPath": "D:\\fpt\\Ky8\\capstone\\Finance.WebAPI\\Finance.Data\\Finance.Data.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "D:\\fpt\\Ky8\\capstone\\FinanceBE\\Finance.Data\\Finance.Data.csproj": {
+    "D:\\fpt\\Ky8\\capstone\\Finance.WebAPI\\Finance.Data\\Finance.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\fpt\\Ky8\\capstone\\FinanceBE\\Finance.Data\\Finance.Data.csproj",
+        "projectUniqueName": "D:\\fpt\\Ky8\\capstone\\Finance.WebAPI\\Finance.Data\\Finance.Data.csproj",
         "projectName": "Finance.Data",
-        "projectPath": "D:\\fpt\\Ky8\\capstone\\FinanceBE\\Finance.Data\\Finance.Data.csproj",
+        "projectPath": "D:\\fpt\\Ky8\\capstone\\Finance.WebAPI\\Finance.Data\\Finance.Data.csproj",
         "packagesPath": "C:\\Users\\09323\\.nuget\\packages\\",
-        "outputPath": "D:\\fpt\\Ky8\\capstone\\FinanceBE\\Finance.Data\\obj\\",
+        "outputPath": "D:\\fpt\\Ky8\\capstone\\Finance.WebAPI\\Finance.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\09323\\AppData\\Roaming\\NuGet\\NuGet.Config",

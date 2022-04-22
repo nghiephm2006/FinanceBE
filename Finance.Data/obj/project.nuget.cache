@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WJBZEKI1xvgjyOkIPZkMo8yoR6HSKRfPr5yGGBmWL2wZL4qnwDVtE3m6CKUuK5ZaVku30PcXyDbt6PU3W22Q5A==",
+  "dgSpecHash": "YB03G4b7EWU3I61O+4PlcBJdN/44OMc+VKGmC4WffGMDAQY+gnN8dV75dUl7ic7wIjp3jQqroLNgC+L6LgX75w==",
   "success": true,
-  "projectFilePath": "D:\\fpt\\Ky8\\capstone\\FinanceBE\\Finance.Data\\Finance.Data.csproj",
+  "projectFilePath": "D:\\fpt\\Ky8\\capstone\\Finance.WebAPI\\Finance.Data\\Finance.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\09323\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\09323\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.10\\microsoft.aspnetcore.authentication.jwtbearer.3.1.10.nupkg.sha512",

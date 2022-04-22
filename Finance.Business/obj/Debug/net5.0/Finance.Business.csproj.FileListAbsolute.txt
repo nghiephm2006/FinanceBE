@@ -31,3 +31,6 @@ D:\fpt\Ky8\capstone\FinanceBE\Finance.Business\obj\Debug\net5.0\Finance.Business
 D:\fpt\Ky8\capstone\FinanceBE\Finance.Business\obj\Debug\net5.0\ref\Finance.Business.dll
 D:\fpt\Ky8\capstone\FinanceBE\Finance.Business\obj\Debug\net5.0\Finance.Business.pdb
 D:\fpt\Ky8\capstone\FinanceBE\Finance.Business\obj\Debug\net5.0\Finance.Business.genruntimeconfig.cache
+D:\fpt\Ky8\capstone\Finance.WebAPI\Finance.Business\bin\Debug\net5.0\Finance.Data.dll
+D:\fpt\Ky8\capstone\Finance.WebAPI\Finance.Business\bin\Debug\net5.0\Finance.Data.pdb
+D:\fpt\Ky8\capstone\Finance.WebAPI\Finance.Business\obj\Debug\net5.0\Finance.Business.csproj.CopyComplete

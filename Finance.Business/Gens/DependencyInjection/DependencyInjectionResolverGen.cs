@@ -1,16 +1,10 @@
 
-/////////////////////////////////////////////////////////////////
-//
-//              AUTO-GENERATED
-//
-/////////////////////////////////////////////////////////////////
-
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
 using Reso.Core.BaseConnect;
 using Finance.Data.Models;
-using Finance.Business.Gens.Services;
 using VuonDau.Data.Repositories;
+using Finance.Business.Services;
 
 namespace Finance.Business.Gens.DependencyInjection
 {

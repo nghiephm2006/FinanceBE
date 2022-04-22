@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5do6wefYE78GGqo4o0Gb2wa6hPPSV3rrLt4hLeqRJoONFlG8wjmwKDOXS/DCeAmw5e71t3gQ+G30Ay0JFMrlqg==",
+  "dgSpecHash": "qQ/NCJexZv4PL7tfvb1K+fvr5ceElFK7zoM60Y1/if21t/CCslr4pYmPOnHAHdN8srt+vwJK2dnZupe+y+p6iQ==",
   "success": true,
-  "projectFilePath": "D:\\fpt\\Ky8\\capstone\\FinanceBE\\Finance.Business\\Finance.Business.csproj",
+  "projectFilePath": "D:\\fpt\\Ky8\\capstone\\Finance.WebAPI\\Finance.Business\\Finance.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\09323\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\09323\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

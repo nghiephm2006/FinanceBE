@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u0OW30+6R/rMy6q9DoXCwI0Z5u0MMFwrjeR9RE0hAe36rpzdxHgD/awLsSrgYQWmaCXsPgXg8nPnjWTNz0OldQ==",
+  "dgSpecHash": "lgdpWuT9aCWfkJpjlROtbb2SCDNPcLrTS93jwSaepVWNzWdaJbafiA2xuXjP/v62RffCyhvCRg0gSWdtShrL2Q==",
   "success": true,
-  "projectFilePath": "D:\\fpt\\Ky8\\capstone\\FinanceBE\\Finance.WebAPI\\Finance.WebAPI.csproj",
+  "projectFilePath": "D:\\fpt\\Ky8\\capstone\\Finance.WebAPI\\Finance.WebAPI\\Finance.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\09323\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\09323\\.nuget\\packages\\awssdk.core\\3.7.10.11\\awssdk.core.3.7.10.11.nupkg.sha512",
